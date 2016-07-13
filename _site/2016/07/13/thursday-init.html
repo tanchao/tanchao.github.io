@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>new page for tc.ice by tanchao</title>
+
+    <link rel="stylesheet" href="/stylesheets/styles.css">
+    <link rel="stylesheet" href="/stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>new page for tc</h1>
+        <p>a new start for future</p>
+      </header>
+      <section>
+        <div class="page-content">
+            <div class="wrapper">
+                <div class="home">
+  <h2 id="how-to-access-ec2-better">how to access ec2 better?</h2>
+
+<ul>
+  <li>alias pem file and command</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>    <span class="c"># AWS related</span>
+    <span class="nb">export </span><span class="nv">AWS</span><span class="o">=</span><span class="s1">'ec2-52-77-227-119.ap-southeast-1.compute.amazonaws.com'</span>
+    <span class="nb">export </span><span class="nv">PEM</span><span class="o">=</span><span class="s1">'/Users/tanchao/workspace/credentials/thursday-ec2-t2micro.pem'</span>
+    <span class="nb">alias </span><span class="nv">sshaws</span><span class="o">=</span><span class="s1">'ssh -i $PEM ec2-user@$AWS'</span>
+    <span class="nb">alias </span><span class="nv">scpaws</span><span class="o">=</span><span class="s1">'scp -i /Users/tanchao/workspace/credentials/aws9517.pem'</span>
+</code></pre>
+</div>
+
+<ul>
+  <li>define ssh config <a href="https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man5/ssh_config.5.html">mac way</a> (recommand)</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>    host aws
+        HostName ec2-52-77-227-119.ap-southeast-1.compute.amazonaws.com
+        Port 22
+        User ec2-user
+        IdentityFile /Users/tanchao/workspace/credentials/thursday-ec2-t2micro.pem
+</code></pre>
+</div>
+
+<ul>
+  <li>we host a git repo on ec2 and i need checkout without login/pem file</li>
+</ul>
+
+<div class="language-python highlighter-rouge"><pre class="highlight"><code>    <span class="n">git</span> <span class="n">clone</span> <span class="n">ssh</span><span class="p">:</span><span class="o">//</span><span class="n">aws</span><span class="o">/~/</span><span class="n">gitrepo</span><span class="o">/</span><span class="n">recruiter</span><span class="o">-</span><span class="n">webapp</span>
+</code></pre>
+</div>
+
+</div>
+
+            </div>
+        </div>
+      </section>
+      <footer>
+        <p class="view"><a href="https://github.com/tanchao">View My GitHub Profile</a></p>
+        <!--<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>-->
+      </footer>
+    </div>
+    <script src="/javascripts/scale.fix.js"></script>
+  </body>
+</html>
