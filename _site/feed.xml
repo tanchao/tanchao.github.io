@@ -6,13 +6,13 @@
 </description>
     <link>http://tanchao.github.io/</link>
     <atom:link href="http://tanchao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jul 2016 18:28:33 +0800</pubDate>
-    <lastBuildDate>Wed, 13 Jul 2016 18:28:33 +0800</lastBuildDate>
+    <pubDate>Wed, 13 Jul 2016 23:42:21 +0800</pubDate>
+    <lastBuildDate>Wed, 13 Jul 2016 23:42:21 +0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>First Setups and Issues with Thursday</title>
-        <description>&lt;h2 id=&quot;how-to-access-ec2-better&quot;&gt;how to access ec2 better?&lt;/h2&gt;
+        <description>&lt;h3 id=&quot;how-to-access-ec2-better&quot;&gt;how to access ec2 better?&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;alias pem file and command&lt;/li&gt;
@@ -42,9 +42,17 @@
   &lt;li&gt;we host a git repo on ec2 and i need checkout without login/pem file&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &lt;span class=&quot;n&quot;&gt;git&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;clone&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ssh&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;aws&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/~/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gitrepo&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;recruiter&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;webapp&lt;/span&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    git clone ssh://aws/~/gitrepo/recruiter-webapp
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
+
+&lt;h3 id=&quot;a-good-markdown-online-editor-place-mahuahttpmahuajserme&quot;&gt;a good markdown online editor place &lt;a href=&quot;http://mahua.jser.me/&quot;&gt;mahua&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;lombok&quot;&gt;lombok&lt;/h3&gt;
+
+&lt;h3 id=&quot;tomcat-7&quot;&gt;tomcat 7&lt;/h3&gt;
+
+&lt;h3 id=&quot;maven-rebuild-project&quot;&gt;maven rebuild project&lt;/h3&gt;
 </description>
         <pubDate>Wed, 13 Jul 2016 18:15:29 +0800</pubDate>
         <link>http://tanchao.github.io/2016/07/13/thursday-init.html</link>

@@ -8,7 +8,7 @@ categories: thur
 tags: thur
 ---
 
-## how to access ec2 better?
+### how to access ec2 better?
 
 * alias pem file and command
 
@@ -32,6 +32,14 @@ tags: thur
 
 * we host a git repo on ec2 and i need checkout without login/pem file
 
-```python
+```bash
     git clone ssh://aws/~/gitrepo/recruiter-webapp
 ```
+
+### a good markdown online editor place [mahua](http://mahua.jser.me/)
+
+### lombok
+
+### tomcat 7
+
+### maven rebuild project
