@@ -14,6 +14,9 @@ tags: career
 
 以及一些我现在（2016-08-10）的理解和建议（{==黄底==}）
 
+不知为何MD渲染和我想象的不一致，还是有道云笔记吧，看[这里](http://note.youdao.com/share/?id=9f205f59f0f0fb0c825730f81dfa37f9&type=note)
+
+
 ## BEGIN
 ---
 ---
