@@ -23,9 +23,23 @@ tags: interview
   - Most Challenge
   - Most Interesting
   - Conflict with other teams
+    - Case: D team have tight resource to review my change.
+      - Try to approach the contact people if they can offer a hand
+      - Try to follow the standard procedure to seek resource
+      - Make sure everyone involved aware of the conflict and status and next steps etc.
+      - Keep engaging on timelines (if they are tight now, when they might have buffer for it)
+      - Inform manager or owner to make sure they know the progress, and maybe they could help.
   - Conflict with managers
   - Delayed by dependency; How to avoid?
   - No clue project
+- Conflict with teammates
+  - Case: A design task to resolve the problem, there are short-long-term options, V wants me to go for long term solutions
+  so that next time when she implemented her change there would be existing channel for the data passing. I can do it but
+  requires more work. (say, my solution is good for short or long, however, involving her solution for another task, change
+  my design will help her a bit.)
+    - understand if there is hard dependency (MUST or OPTIONAL)
+    - understand the priority (Importance and Urgency)
+    -
 
 # Resources
 

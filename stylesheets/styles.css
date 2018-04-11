@@ -56,7 +56,7 @@
 
 body {
   background-color: #fff;
-  padding:50px;
+  padding:20px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -158,7 +158,7 @@ img {
 }
 
 header {
-  width:20%;
+  width:10%;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -224,7 +224,7 @@ header ul a strong {
 }
 
 section {
-  width:60%;
+  width:80%;
   float:right;
   padding-bottom:50px;
 }
@@ -241,10 +241,10 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:10%;
   float:left;
   position:fixed;
-  bottom:50px;
+  bottom:20px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -262,7 +262,7 @@ footer {
   }
 
   header {
-    padding-right:320px;
+    padding-right:5%;
   }
 
   section {
