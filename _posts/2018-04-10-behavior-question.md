@@ -39,7 +39,8 @@ tags: interview
   my design will help her a bit.)
     - understand if there is hard dependency (MUST or OPTIONAL)
     - understand the priority (Importance and Urgency)
-    -
+
+
 
 # Resources
 
