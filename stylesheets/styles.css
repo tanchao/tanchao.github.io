@@ -158,7 +158,7 @@ img {
 }
 
 header {
-  width:10%;
+  width:15%;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -241,7 +241,7 @@ hr {
 }
 
 footer {
-  width:10%;
+  width:15%;
   float:left;
   position:fixed;
   bottom:20px;
