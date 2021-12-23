@@ -11,7 +11,7 @@ tags: supertan
 This should be a WIP document for a while, a recent learning told me to keep climbing towards the peak without distractions, and I realized that I don't even have a solid target, so this document is trying to initial, improve and finalize my tech focus.
 
 ### Dec. 2021
-* `To Be THE Best API Engineer`, mastered the best practice of API design, maintain and scale.
+* `To Be THE Best API Service Developer`, mastered the best practice of API (including the full-stack microservices and data processes behind the scene) design, maintainenance and scale.
 
 ### Nov. 2021
 * Automation at different levels, learning from "Resolve MV Conflict": 1. ask experienced SDE; 2. write a wiki on HowTo; 3. write a script GodianKnot.fix-mv-conflict; 4. integrate with code.amazon and permission to automate run updates on its own. 
