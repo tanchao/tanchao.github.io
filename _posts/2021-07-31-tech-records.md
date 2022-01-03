@@ -12,6 +12,9 @@ This should be a WIP document for a while, a recent learning told me to keep cli
 
 ### Dec. 2021
 * `To Be THE Best API Service Developer`, mastered the best practice of API (including the full-stack microservices and data processes behind the scene) design, maintainenance and scale.
+* Two sets of technical skills:
+  * ***Tools*** - like programming language familarity, database/api/ops best practices etc.
+  * ***Instruments*** - like mechanism of design creation, process to tech vision etc.
 
 ### Nov. 2021
 * Automation at different levels, learning from "Resolve MV Conflict": 1. ask experienced SDE; 2. write a wiki on HowTo; 3. write a script GodianKnot.fix-mv-conflict; 4. integrate with code.amazon and permission to automate run updates on its own. 
