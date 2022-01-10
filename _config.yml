@@ -6,12 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: new page for tc.ice
-email: tan.chao.hawk@foxmail.com
+title: Super Tan
+email: chaos.tc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    tc and ice have a baby now, tc decided to mark some memories here or elsewhere
-    so we will see.
-baseurl: "" # the subpath of your site, e.g. /blog
+    Chao Tan is "Someone Do Everything", an owner and a father.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://tanchao.github.io" # the base hostname & protocol for your site
 weibo_username: _tanchao_
 github_username: tanchao 
@@ -24,4 +23,6 @@ author:
 
 
 # Build settings
+
+# jekyllrb default markdown processor: https://jekyllrb.com/docs/configuration/markdown/
 markdown: kramdown
