@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Super Tan
+title: Chao Tan Blog
 email: chaos.tc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Chao Tan is "Someone Do Everything", an owner and a father.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tanchao.github.io" # the base hostname & protocol for your site
 weibo_username: _tanchao_
 github_username: tanchao 
@@ -19,7 +19,7 @@ github_username: tanchao
 permalink: /:year/:month/:day/:title.html
 paginate: 10
 author:
-  name: tanchao
+  name: tc
 
 
 # Build settings
