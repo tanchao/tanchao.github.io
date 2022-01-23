@@ -10,6 +10,13 @@ tags: supertan
 
 This should be a WIP document for a while, a recent learning told me to keep climbing towards the peak without distractions, and I realized that I don't even have a solid target, so this document is trying to initial, improve and finalize my tech focus.
 
+### Jan. 2022
+* Just a note on important things for API design: F focused on "entity definition" more than anything else, "what is it? why do we need it in [X business]? in an ideal world, would we need it? shall we need it in future?", after confirming that we really need an entity for a good reason, then "who will produce it? who will consume it? why do they need pass through this API/Service instead of establishing the direct relationship? do they plan to do it in future? if yes, why not now?" There are lots of API design best practices on technical areas, however, the most important part comes back to the business (use case) itself, that's the reason why talented developers can't design the *best* API ever due the business would always excel its current state. 
+* The value I should focus on: 1) insist a good technical brenchmark; 2) keep the maintanenbility and flexibility with best effort; 3) remember business first. 
+* There are some good machnism we learnt, that's not a done-done, it must process 3 steps: 1) awareness; 2) practice; 3) habit. Because most *mechnisms* are still exist in format of *process*, you have to use it first then to benefit from it. The other point is that *Do we really follow the mechenism?* 
+  * That's why my favorite way is `automation` over `mechenism`, if there is a good intention, try to enforce an automated check/validation.
+* The hard thing about *First Principal* is not about this thinking strategy, but on *what is the first place?* or technically "what could it be?"
+
 ### Dec. 2021
 * `To Be THE Best API Service Developer`, mastered the best practice of API (including the full-stack microservices and data processes behind the scene) design, maintainenance and scale.
 * Two sets of technical skills:
