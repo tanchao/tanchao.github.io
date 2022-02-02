@@ -16,6 +16,7 @@ This should be a WIP document for a while, a recent learning told me to keep cli
 * There are some good machnism we learnt, that's not a done-done, it must process 3 steps: 1) awareness; 2) practice; 3) habit. Because most *mechnisms* are still exist in format of *process*, you have to use it first then to benefit from it. The other point is that *Do we really follow the mechenism?* 
   * That's why my favorite way is `automation` over `mechenism`, if there is a good intention, try to enforce an automated check/validation.
 * The hard thing about *First Principal* is not about this thinking strategy, but on *what is the first place?* or technically "what could it be?"
+* `cheap`, make latency cheap to reduce, make availability cheap to raise, make system cheap to change.
 
 ### Dec. 2021
 * `To Be THE Best API Service Developer`, mastered the best practice of API (including the full-stack microservices and data processes behind the scene) design, maintainenance and scale.
@@ -61,4 +62,5 @@ Proficient API designer and Tier-1 Ops master, particularly on *Runtime*/*Platfo
 * Focus. Stay focus is really hard, with multitasking it's harder. Not only from work but also from family, too. List the tasks with specifics and time bounded, makes it easier to narrow down the focus list. Then self-awareness whenever the attention switch. Another awareness is are we trying to solve the problem exceed the expectation, is there a value to do that?
 * API
 >The best APIs are usable, secure, available, fast and cheap at the same time. When necessary, we make intentional trade-offs in usability or cost to improve security, availability or performance. We strive to find a solution which satisfies all concerns.
+
 
