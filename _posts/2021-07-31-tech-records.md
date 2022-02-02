@@ -8,7 +8,16 @@ categories: supertan
 tags: supertan
 ---
 
+```
 This should be a WIP document for a while, a recent learning told me to keep climbing towards the peak without distractions, and I realized that I don't even have a solid target, so this document is trying to initial, improve and finalize my tech focus.
+```
+
+### Feb. 2022
+* Key value: `breakdown problem into granular sub-tasks and delegate to the right people`.
+  * understand the problem
+  * known people
+  * task breakdown with proper boundary
+  * keep track of the breakdowns so it's assemble well when need
 
 ### Jan. 2022
 * Just a note on important things for API design: F focused on "entity definition" more than anything else, "what is it? why do we need it in [X business]? in an ideal world, would we need it? shall we need it in future?", after confirming that we really need an entity for a good reason, then "who will produce it? who will consume it? why do they need pass through this API/Service instead of establishing the direct relationship? do they plan to do it in future? if yes, why not now?" There are lots of API design best practices on technical areas, however, the most important part comes back to the business (use case) itself, that's the reason why talented developers can't design the *best* API ever due the business would always excel its current state. 
