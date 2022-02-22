@@ -27,3 +27,10 @@ There is a question in Zhihu (aka. Quora in China) asked "what's the programming
     * https://en.wikipedia.org/wiki/Eventual_consistency
     * https://en.wikipedia.org/wiki/ACID
     * https://en.wikipedia.org/wiki/PACELC_theorem
+
+
+### Topics
+#### Payments
+* https://eng.uber.com/money-scale-strong-data/
+* https://medium.com/get-ally/how-to-architect-online-payment-processing-system-for-an-online-store-6dc84350a39
+

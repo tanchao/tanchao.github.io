@@ -15,6 +15,7 @@ Amazon has it's leadership principles to guide the company on decision making. H
 > someone call it ownership or founder's mentality, just step out and think beyond.
 3. Deliver small, deliver fast
 > speed matters.
+> make solutions cheap
 4. Insist highest standard
 > there are two important perspective: insist highest standard for self; hold it for the team.
 5. Solve dynamic problem

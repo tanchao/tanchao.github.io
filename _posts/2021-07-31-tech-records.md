@@ -18,13 +18,14 @@ This should be a WIP document for a while, a recent learning told me to keep cli
   * known people
   * task breakdown with proper boundary
   * keep track of the breakdowns so it's assemble well when need
+* 不管这次能不能过，都建议你多做strategic thinking，不管大事小事，看到没有人去做的机会就可以写个1-pager，we should do X, SWOT analysis, why not Y, what does it mean for product Foo, what does it mean for technical stack Bar, what's the 1/3/5 year vision, what are the dependencies, etc.
 
 ### Jan. 2022
 * Just a note on important things for API design: F focused on "entity definition" more than anything else, "what is it? why do we need it in [X business]? in an ideal world, would we need it? shall we need it in future?", after confirming that we really need an entity for a good reason, then "who will produce it? who will consume it? why do they need pass through this API/Service instead of establishing the direct relationship? do they plan to do it in future? if yes, why not now?" There are lots of API design best practices on technical areas, however, the most important part comes back to the business (use case) itself, that's the reason why talented developers can't design the *best* API ever due the business would always excel its current state. 
 * The value I should focus on: 1) insist a good technical brenchmark; 2) keep the maintanenbility and flexibility with best effort; 3) remember business first. 
 * There are some good machnism we learnt, that's not a done-done, it must process 3 steps: 1) awareness; 2) practice; 3) habit. Because most *mechnisms* are still exist in format of *process*, you have to use it first then to benefit from it. The other point is that *Do we really follow the mechenism?* 
   * That's why my favorite way is `automation` over `mechenism`, if there is a good intention, try to enforce an automated check/validation.
-* The hard thing about *First Principal* is not about this thinking strategy, but on *what is the first place?* or technically "what could it be?"
+* The hard thing about *First Principal* is not about this thinking strategy, but on *what is the first place?* or technically *what could it be*.
 * `cheap`, make latency cheap to reduce, make availability cheap to raise, make system cheap to change.
 
 ### Dec. 2021
@@ -43,7 +44,7 @@ This should be a WIP document for a while, a recent learning told me to keep cli
 ### Oct. 2021
 * Dataflow velocity and cost could be a good design dimension to evaluate
 * Design for flexibility 
-** I have a plan B, why not go with plan B directly?
+  * I have a plan B, why not go with plan B directly?
 * Listen to Customers, but, Think ahead and offer beyond their voice. "One more thing" by Steve Jobs.
 
 ### Sep. 2021
@@ -67,9 +68,19 @@ Proficient API designer and Tier-1 Ops master, particularly on *Runtime*/*Platfo
 ### Random notes
 
 * Terminology is an essential important setup for context. People could assume audience are having good enough context and on the same page of understanding the topics and reasoning. But, for audience not familar with the background and history, terminology clarification is the most important step to make the conversation effective and right. Lots of design doc use *Terminology* section to explain lots of abbreviations for different teams, but the key definition we need clarify are from the *Problem Statement*. The key problem area, technical challengies/complexities/blockers etc.
+  * Clear problem statement results in right design
 * Variables, more specifically, Variable's Scope. A recent design discussion helped me understand one important dimension to pay attention to is the *System Variable*, we frequently recognize the variables and arguments clearly when we write program methods, we are not at the same level of sensitivity at System level. Here is an existing data pipeline, existing data structure, let me just add a field so I can consume it somewhere elese. NOTE: what's the scope of this data structure? what's the data update frequency? who owns it who promisd the correctness of it? Are you willing to track among the pipeline when you get a bug in future? INSTEAD: could I access the data source directly from my program? so it's a variable defined in my scope and I know who is directly responsible for it instead of "plug" on other solutions.
 * Focus. Stay focus is really hard, with multitasking it's harder. Not only from work but also from family, too. List the tasks with specifics and time bounded, makes it easier to narrow down the focus list. Then self-awareness whenever the attention switch. Another awareness is are we trying to solve the problem exceed the expectation, is there a value to do that?
 * API
 >The best APIs are usable, secure, available, fast and cheap at the same time. When necessary, we make intentional trade-offs in usability or cost to improve security, availability or performance. We strive to find a solution which satisfies all concerns.
 
 
+### Case studies
+* Precompute Framework
+  * Elastic View
+* Chain Executor
+  * DAG Processor
+* Dynamic Configurable Rule Engine
+* SDC/App Config
+* Discovery and Throttling
+* Async Task Management
