@@ -18,7 +18,10 @@ This should be a WIP document for a while, a recent learning told me to keep cli
   * known people
   * task breakdown with proper boundary
   * keep track of the breakdowns so it's assemble well when need
-* 不管这次能不能过，都建议你多做strategic thinking，不管大事小事，看到没有人去做的机会就可以写个1-pager，we should do X, SWOT analysis, why not Y, what does it mean for product Foo, what does it mean for technical stack Bar, what's the 1/3/5 year vision, what are the dependencies, etc.
+* quote:
+>不管这次能不能过，都建议你多做strategic thinking，不管大事小事，看到没有人去做的机会就可以写个1-pager，we should do X, SWOT analysis, why not Y, what does it mean for product Foo, what does it mean for technical stack Bar, what's the 1/3/5 year vision, what are the dependencies, etc.
+* `温故知新`, we shall learn from the past and keep it refreshed with latest knowledge and skills
+* there are two types of invention: 
 
 ### Jan. 2022
 * Just a note on important things for API design: F focused on "entity definition" more than anything else, "what is it? why do we need it in [X business]? in an ideal world, would we need it? shall we need it in future?", after confirming that we really need an entity for a good reason, then "who will produce it? who will consume it? why do they need pass through this API/Service instead of establishing the direct relationship? do they plan to do it in future? if yes, why not now?" There are lots of API design best practices on technical areas, however, the most important part comes back to the business (use case) itself, that's the reason why talented developers can't design the *best* API ever due the business would always excel its current state. 
