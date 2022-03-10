@@ -9,8 +9,14 @@ tags: supertan
 ---
 
 ```
-This should be a WIP document for a while, a recent learning told me to keep climbing towards the peak without distractions, and I realized that I don't even have a solid target, so this document is trying to initial, improve and finalize my tech focus.
+This would be a WIP document for a period, a recent learning told me to keep climbing towards the peak without distractions, and I realized that I don't even have a solid target, so this document is trying to initial, improve and finalize my tech focus.
 ```
+
+## Mission Statement
+* `To Be THE Best API Service Developer`, mastered the best practice of API (including the full-stack microservices and data processes behind the scene) design, maintainenance and scale.
+* `System Performance Tuning`, continuously improving the end to end system performance on both reliability and scalability
+
+## Records
 
 ### Feb. 2022
 * Key value: `breakdown problem into granular sub-tasks and delegate to the right people`.
@@ -76,9 +82,12 @@ Proficient API designer and Tier-1 Ops master, particularly on *Runtime*/*Platfo
 * Focus. Stay focus is really hard, with multitasking it's harder. Not only from work but also from family, too. List the tasks with specifics and time bounded, makes it easier to narrow down the focus list. Then self-awareness whenever the attention switch. Another awareness is are we trying to solve the problem exceed the expectation, is there a value to do that?
 * API
 >The best APIs are usable, secure, available, fast and cheap at the same time. When necessary, we make intentional trade-offs in usability or cost to improve security, availability or performance. We strive to find a solution which satisfies all concerns.
+* Talk about **Think Big** and **Invent and Simplify**, there are shortcuts, if you are not targeting some real breakthrough inventions:
+  * New technologies are invented, adapt it in your problem space: e.g. Rust-lang to reduce latency (particularly the tail bumps), MemoryDB for session management
+  * Existing technologies for existing problems in new area: e.g. crypto
+  * New mechnism in existing problem space: e.g. API economy
 
-
-### Case studies
+## Case studies
 * Precompute Framework
   * Elastic View
 * Chain Executor

@@ -24,3 +24,10 @@ Amazon has it's leadership principles to guide the company on decision making. H
 > think ahead, think beyond, whatever you called, don't limit to customer's camplains only, watch for the reflection behind the scene. Experiment and prototype quickly.
 7. OE
 > measure, observe and reason; fix the root cause and it should remain fixed.
+
+# tenets
+
+0. automate everything
+1. make things *cheap*
+2. solve the right problem
+3. listen, understand and communicate
