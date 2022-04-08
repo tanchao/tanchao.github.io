@@ -18,6 +18,18 @@ This would be a WIP document for a period, a recent learning told me to keep cli
 
 ## Records
 
+### Apr. 2022
+* Decision Making on career change
+  * there is no *right* answer, but a *suitable choice*
+  * don't regret
+
+### Mar. 2022
+* PoA talk from alv on distributed system testing
+  * class must have good javadoc
+  * test as close as possible to the dev environment
+  * create tool for UT instead of relying on Iintegration Test (Do the **Cheap** choice!)
+  * focus on the fundamental features, the rest are others job
+
 ### Feb. 2022
 * Key value: `breakdown problem into granular sub-tasks and delegate to the right people`.
   * understand the problem
