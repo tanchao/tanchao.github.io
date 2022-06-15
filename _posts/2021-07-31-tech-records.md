@@ -13,10 +13,19 @@ This would be a WIP document for a period, a recent learning told me to keep cli
 ```
 
 ## Mission Statement
-* `To Be THE Best API Service Developer`, mastered the best practice of API (including the full-stack microservices and data processes behind the scene) design, maintainenance and scale.
+* `To be the best API Service owner`, mastered the best practice of API (including the full-stack microservices and data processes behind the scene) design, build and maintainenance.
 * `System Performance Tuning`, continuously improving the end to end system performance on both reliability and scalability
 
 ## Records
+
+### Jun. 2022
+* iterative optimization is the right way to better stage, which requires two essential tools
+  * Feedback & Upgrade Loop, easy and fast feedback and upgrade mechanism that could collect feedbacks easily from end customers, and a way to correct the product easily. For example, oh-my-zsh upgrade mechanism.
+  * Experiment Framework, easy to conduct A/B testing and critical changes help measure the change impact effectively
+* Project Management by Milestone instead of by *Project*
+  * Timebox the milestones then the *real* project progress comes with it
+  * Prioritization over Time/Resource/Feature
+  * Foundation
 
 ### Apr. 2022
 * Decision Making on career change
