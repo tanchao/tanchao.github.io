@@ -26,6 +26,9 @@ This would be a WIP document for a period, a recent learning told me to keep cli
   * Timebox the milestones then the *real* project progress comes with it
   * Prioritization over Time/Resource/Feature
   * Foundation
+* When look into web application frameworks, noticed the gap between Java vs Ruby(Rails)/Python(Django), however, when I dig into `Spring` there are lots of good frameworks and considerations, some of them might be over weighting, but they are good.
+  * https://spring.io/guides/tutorials/rest/
+  * https://spring.io/guides/tutorials/spring-boot-oauth2/
 
 ### Apr. 2022
 * Decision Making on career change
