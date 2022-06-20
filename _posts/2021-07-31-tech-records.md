@@ -30,6 +30,13 @@ This would be a WIP document for a period, a recent learning told me to keep cli
   * https://spring.io/guides/tutorials/rest/
   * https://spring.io/guides/tutorials/spring-boot-oauth2/
 
+### May. 2022
+* A recent COE was due to a bug in a widely spread `X-Utils` package, one of the action items was to `mark the util package deprecated to avoid people misuse it`. This is a typical example of "naive thinking": there is a problem in the tool, let's not use the tool with problem. The question raised from my side: what should we use then? this tool is commonly used for a reason, is there a alternative that supports all its good features without this problem?
+  * I took a close look later, the bug wasn't due to the `X-Utils` but actually due to the misuse of the util. Similar ask of "we should all not use knifes, because there is a bad guy killed someone with a knife."
+  * On the otherside, `COE` is one the most favorite mechanism I learnt here at Amazon. The `Fix Root Cause via 5-WHYs` are not aimed for a process completion but keep the problem fixed and remain fixed.
+  * I didn't close this issue completely but avoided the AI ticket to auto close with this deprecation statement. We shall look into it even deeper to find a better approach for the utils to safe by default.
+
+
 ### Apr. 2022
 * Decision Making on career change
   * there is no *right* answer, but a *suitable choice*

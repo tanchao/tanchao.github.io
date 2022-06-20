@@ -31,3 +31,11 @@ Amazon has it's leadership principles to guide the company on decision making. H
 1. make things *cheap*
 2. solve the right problem
 3. listen, understand and communicate
+
+# Examples
+
+## Ownership
+
+### 6/16 
+Use case: A complainted that something (X) doesn't work with his stuffs (Y), that something was offered by B. Then B claimed X worked with his stuffs (Z), so there should be some issue in `Y` or `X & Y`. 
+Chao: The issue here is that B introduced another variable `Z` that actually won't really help the end delivery `X & Y`. As a owner, we should focus on *Solving Customer's Problem* instead of *Proving we are right*.
