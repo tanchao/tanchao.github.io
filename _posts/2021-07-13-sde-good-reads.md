@@ -22,3 +22,8 @@ tags: supertan
 - https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 - https://stackoverflow.com/questions/2329582/what-is-currently-the-most-secure-one-way-encryption-algorithm
 
+## OE
+
+- https://www.facebook.com/business/news/update-about-the-october-4th-outage
+  - https://en.wikipedia.org/wiki/2021_Facebook_outage  
+- https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/
