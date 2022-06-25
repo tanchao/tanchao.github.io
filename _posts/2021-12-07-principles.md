@@ -29,6 +29,9 @@ Amazon has it's leadership principles to guide the company on decision making. H
 
 0. automate everything
 1. make things *cheap*
+    1. prototype works
+    1. plan A vs plan B, why not just use plan B
+    1. vision, design, impl
 2. solve the right problem
 3. listen, understand and communicate
 
