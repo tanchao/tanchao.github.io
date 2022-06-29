@@ -17,3 +17,11 @@ I don't know the fact, but **understanding** others position in a **rationale** 
 This story linked to the **empathy** discussion I had with a friend, he suggested that *empthay is to explore and understand others' difficulties and constraints*, that's a great definition. Before the conversation, I treated empathy as *no ego*, focusing on things instead of attitudes. Dictionary says "the ability to understand and share the feelings of another". 
 
 Now link the two together, empathy is not only to understand others, but it also helps understanding self at the end.
+
+# 06/29/2022
+
+Recently came over a company's values, which tells `We value compassion as well as intelligence.`, [ref](https://pdtpartners.com/careers).
+
+I was curious on what does `compassion` really mean, as I don't really see it much. Here is one I felt deeply related to this article:
+
+>Compassion is not the same as empathy or altruism, though the concepts are related. While empathy refers more generally to our ability to take the perspective of and feel the emotions of another person, compassion is when those feelings and thoughts include the desire to help.
