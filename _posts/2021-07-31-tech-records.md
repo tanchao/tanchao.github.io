@@ -18,6 +18,14 @@ This would be a WIP document for a period, a recent learning told me to keep cli
 
 ## Records
 
+### Jul. 2022
+* One important thing is the awareness between "best practice" vs "benchmark". For inherited systems, they normally come with legacy wise and people mostly inherit their best practices. However, leaders should pay attention to the benchmarks as well, if there is gap between current best practice, it's not the best practice.
+  * benchmark keeps refreshing on the other hand, for example, `step function express mode`.
+* We always talk about the "Data" for right decision making, however, we should add "Rationale" along with it. The data should match the rationale.
+* Again, curiosity is so important, again and again reminds me the quote "stay hungry, stay foolish".
+* Knowing the benchmark or standard is good, you know what "good enough" is.
+  * for example, when we consider `Scalability`, we could measure it with `handle 100x scale, no need architecture change for next 5 years.`
+
 ### Jun. 2022
 * iterative optimization is the right way to better stage, which requires two essential tools
   * Feedback & Upgrade Loop, easy and fast feedback and upgrade mechanism that could collect feedbacks easily from end customers, and a way to correct the product easily. For example, oh-my-zsh upgrade mechanism.
@@ -36,7 +44,6 @@ This would be a WIP document for a period, a recent learning told me to keep cli
   * On the otherside, `COE` is one the most favorite mechanism I learnt here at Amazon. The `Fix Root Cause via 5-WHYs` are not aimed for a process completion but keep the problem fixed and remain fixed.
   * I didn't close this issue completely but avoided the AI ticket to auto close with this deprecation statement. We shall look into it even deeper to find a better approach for the utils to safe by default.
 
-
 ### Apr. 2022
 * Decision Making on career change
   * there is no *right* answer, but a *suitable choice*
@@ -46,7 +53,7 @@ This would be a WIP document for a period, a recent learning told me to keep cli
 * PoA talk from alv on distributed system testing
   * class must have good javadoc
   * test as close as possible to the dev environment
-  * create tool for UT instead of relying on Iintegration Test (Do the **Cheap** choice!)
+  * create tool for UT instead of relying on Integration Test (Do the **Cheap** choice!)
   * focus on the fundamental features, the rest are others job
 
 ### Feb. 2022
@@ -112,7 +119,7 @@ Proficient API designer and Tier-1 Ops master, particularly on *Runtime*/*Platfo
 * Variables, more specifically, Variable's Scope. A recent design discussion helped me understand one important dimension to pay attention to is the *System Variable*, we frequently recognize the variables and arguments clearly when we write program methods, we are not at the same level of sensitivity at System level. Here is an existing data pipeline, existing data structure, let me just add a field so I can consume it somewhere elese. NOTE: what's the scope of this data structure? what's the data update frequency? who owns it who promisd the correctness of it? Are you willing to track among the pipeline when you get a bug in future? INSTEAD: could I access the data source directly from my program? so it's a variable defined in my scope and I know who is directly responsible for it instead of "plug" on other solutions.
 * Focus. Stay focus is really hard, with multitasking it's harder. Not only from work but also from family, too. List the tasks with specifics and time bounded, makes it easier to narrow down the focus list. Then self-awareness whenever the attention switch. Another awareness is are we trying to solve the problem exceed the expectation, is there a value to do that?
 * API
->The best APIs are usable, secure, available, fast and cheap at the same time. When necessary, we make intentional trade-offs in usability or cost to improve security, availability or performance. We strive to find a solution which satisfies all concerns.
+>The best APIs are `usable, secure, available, fast and cheap` at the same time. When necessary, we make intentional trade-offs in usability or cost to improve security, availability or performance. We strive to find a solution which satisfies all concerns.
 * Talk about **Think Big** and **Invent and Simplify**, there are shortcuts, if you are not targeting some real breakthrough inventions:
   * New technologies are invented, adapt it in your problem space: e.g. Rust-lang to reduce latency (particularly the tail bumps), MemoryDB for session management
   * Existing technologies for existing problems in new area: e.g. crypto
@@ -127,3 +134,5 @@ Proficient API designer and Tier-1 Ops master, particularly on *Runtime*/*Platfo
 * SDC/App Config
 * Discovery and Throttling
 * Async Task Management
+* Atocha log
+* Tracing: https://w.amazon.com/bin/view/CEH/Efficiency/Efficiency_and_Code/
