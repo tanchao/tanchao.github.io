@@ -10,6 +10,13 @@ tags: supertan
 
 There is a question in Zhihu (aka. Quora in China) asked "what's the programming book made you WoW?". That's the trigger that I should allocate a post for those highly impactful books in my career, they are not limited to programming, they are more about the tech industry, both skills and instruments.
 
+## Leaders
+- James Hamilton, SVP/Distinguished Engineer@Amazon: https://perspectives.mvdirona.com/
+- http://muratbuffalo.blogspot.com/
+- https://www.brendangregg.com/methodology.html
+- https://ferd.ca/
+
+
 ## Books
 - Unix Programming Art
 - Hack and painters
@@ -40,3 +47,8 @@ There is a question in Zhihu (aka. Quora in China) asked "what's the programming
 
 #### Performance
 * ebay tech: https://tech.ebayinc.com/archive/?tag=performance-engineering
+
+#### Best practices
+
+* AWS: https://aws.amazon.com/cn/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=*all
+* DDB: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html
