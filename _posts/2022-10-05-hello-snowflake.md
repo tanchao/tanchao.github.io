@@ -12,6 +12,8 @@ When I left Amazon, I scheduled 1-1s with leaders and friends to farewell (virtu
 
 I took a 2-weeks gap traveling around northen western Washington, in the middle of the trip, I got the news that my green card arrived home, so I drove home and grabbed the gc and de-routed 1-week to Vancouver, CA. First time visiting Canada, first time camping, first time to the northern western point, a fullfilling trip. I felt lucky and deeply appreciated for things moving smoothly.
 
+Back to the topic.
+
 ## First month retro
 
 1. 1w Boot Camp;
@@ -29,8 +31,9 @@ I took a 2-weeks gap traveling around northen western Washington, in the middle 
 
 ## Not so good parts
 
+1. completely new environment, working style and product; lots of things to ramp up.
 1. change process is not as convenient as Amazon, release with one monolithic repo reminds me the giant alexa service day.
-2. reminds me the HSBC life where the HR training is so heavy, Amazon is actually doing better.
+1. reminds me the HSBC life where the HR training is so heavy, Amazon is actually doing better.
 
 ## Misc
 
@@ -39,7 +42,9 @@ I took a 2-weeks gap traveling around northen western Washington, in the middle 
     1. reduced scope compare to Amazon
 1. Less team wise meetings, more pod wise small meetings/chats/huddles
 
-I would like to pause with one friend's quote
+**Summary: I can't promise this is a great and better place to work with atm, I will get back to it after another Q or half year.**
+
+Finally, I would like to end this with one friend's quote, 
 
 ```
 what you have is only a temporary fresh air, eventually, engineers always solve the similar staffs. there is no good choice, bad options, all depends on luck?
