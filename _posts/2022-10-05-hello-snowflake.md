@@ -17,7 +17,7 @@ I took a 2-weeks gap traveling around northen western Washington, in the middle 
 1. 1w Boot Camp;
 2. Lots of reading and training;
 3. A ramp up task within the team under others' coach, just finished my 3rd PR in python for a ML pipeline, almost done with one step of them;
-  a. some contributions on how pipeline should be organized. 
+    1. some contributions on how pipeline should be organized. 
 5. Suggested a new way to project setup so that we could do development easier with IDE;
 6. Some comments and reviews.
 
@@ -36,7 +36,7 @@ I took a 2-weeks gap traveling around northen western Washington, in the middle 
 
 1. SQL first API, mono repo and release train
 1. Isolated, governed product/prioritization
-  1. reduced scope compare to Amazon
+    1. reduced scope compare to Amazon
 1. Less team wise meetings, more pod wise small meetings/chats/huddles
 
 I would like to pause with one friend's quote
