@@ -26,3 +26,5 @@ author:
 
 # jekyllrb default markdown processor: https://jekyllrb.com/docs/configuration/markdown/
 markdown: kramdown
+
+plugins: [jekyll-paginate]
